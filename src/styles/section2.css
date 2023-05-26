@@ -1,0 +1,75 @@
+#section__second {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+  gap: 40px;
+  padding-top: 30px;
+}
+
+#section2__right {
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+}
+
+.lista__person-name {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 20vw;
+  padding-left: 30px;
+}
+
+.lista__person-name > h3 {
+  font-size: var(--font-size-title3);
+  padding-left: 30px;
+}
+
+.lista__person-name > p {
+  padding-left: 30px;
+}
+
+.lista__person {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 40px;
+}
+
+.lista__person > p {
+  width: 50vh;
+  text-align: justify;
+  /* color: #f8f9fa; */
+}
+
+#section2__left {
+  width: 40vw;
+}
+
+#section2__left-card {
+  background-color: var(--background-color-standard-button);
+  width: 340px;
+  height: 290px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  right: 20px;
+}
+
+#section2__left-innerCard {
+  display: flex;
+  flex-direction: column;
+  width: 280px;
+  height: 250px;
+  justify-content: center;
+}
+
+#section2__left-innerCard > h2 {
+  font-size: var(--font-size-title2);
+  padding-bottom: 20px;
+}
+
+#section2__left-innerCard > p {
+  text-align: justify;
+}

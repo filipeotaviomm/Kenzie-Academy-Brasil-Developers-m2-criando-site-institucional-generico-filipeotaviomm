@@ -1,0 +1,28 @@
+:root {
+  --background-color-principal: #212529;
+  --background-color-secundario: #191c1f;
+  --background-color-standard-button: #4c6ef5;
+  --font-size-title1: 45px;
+  --font-size-title2: 28px;
+  --font-size-title3: 25px;
+  --font-size-title4: 20px;
+  --font-family: "Inter";
+  --color-font-title: #f8f9fa;
+  --color-font-paragraph: #adb5bd;
+}
+
+h1,
+h2,
+h3,
+button {
+  color: var(--color-font-title);
+}
+
+p {
+  line-height: 130%;
+}
+
+button {
+  border: transparent;
+  cursor: pointer;
+}

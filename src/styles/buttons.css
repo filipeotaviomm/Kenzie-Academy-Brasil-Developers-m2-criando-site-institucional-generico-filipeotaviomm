@@ -1,0 +1,26 @@
+#header__button {
+  display: flex;
+  margin-right: 200px;
+  width: 210px;
+  height: 40px;
+  background-color: transparent;
+  border: 1px solid white;
+  align-items: center;
+  justify-content: center;
+}
+
+#firstPart > button {
+  background-color: var(--background-color-standard-button);
+  width: 100px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#section__left-inside > button {
+  background-color: var(--background-color-standard-button);
+  padding: 20px;
+  width: 200px;
+  height: 50px;
+}

@@ -1,0 +1,13 @@
+footer {
+  width: 100vw;
+  height: 65px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--background-color-secundario);
+}
+
+footer > h3 {
+  font-size: var(--font-size-title4);
+  color: var(--color-font-title);
+}
