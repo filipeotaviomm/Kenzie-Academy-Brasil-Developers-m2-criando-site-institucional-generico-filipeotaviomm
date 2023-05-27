@@ -44,6 +44,7 @@
 
 #section2__left {
   width: 40vw;
+  margin-right: 35px;
 }
 
 #section2__left-card {
@@ -53,8 +54,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative;
-  right: 20px;
+  /* position: relative;
+  right: 20px; */
 }
 
 #section2__left-innerCard {
