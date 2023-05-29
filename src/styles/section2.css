@@ -54,8 +54,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* position: relative;
-  right: 20px; */
+  padding-right: 5px;
 }
 
 #section2__left-innerCard {

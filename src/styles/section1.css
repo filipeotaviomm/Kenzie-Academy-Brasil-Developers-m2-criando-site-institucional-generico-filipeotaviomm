@@ -23,6 +23,7 @@
   top: 95px;
   height: 200px;
   padding-bottom: 120px;
+  padding-left: 125px;
 }
 
 #section__left-inside > h2 {
@@ -37,6 +38,7 @@
   width: 50vw;
   padding-top: 70px;
   justify-content: center;
+  margin-right: 4px;
 }
 
 #section__right-inside > span {
