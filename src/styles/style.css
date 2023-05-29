@@ -9,7 +9,7 @@ main {
 }
 
 #first__container {
-  width: 100vw;
+  width: 100%;
   height: 75vh;
   gap: 40px;
   display: flex;
